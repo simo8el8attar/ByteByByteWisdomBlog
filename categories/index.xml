@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Tech Stack Blog</title>
+    <title>Categories on Byte By Byte Wisdom</title>
     <link>https://simo8el8attar.github.io/categories/</link>
-    <description>Recent content in Categories on Tech Stack Blog</description>
+    <description>Recent content in Categories on Byte By Byte Wisdom</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
       <atom:link href="https://simo8el8attar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
       <link>https://simo8el8attar.github.io/categories/development/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://simo8el8attar.github.io/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips</title>
       <link>https://simo8el8attar.github.io/categories/tips/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://simo8el8attar.github.io/categories/tips/</guid>
       <description></description>
     </item>
